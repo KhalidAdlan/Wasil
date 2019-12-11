@@ -51,7 +51,6 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
                     <div class="w3ls_vegetables">
                         <ul class="dropdown-menu drp-mnu">
                             <li><a href="login.html">Login</a></li>
-                            <li><a href="login.html">Sign Up</a></li>
                         </ul>
                     </div>
                 </div>
@@ -68,7 +67,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 <div class="logo_products">
     <div class="container">
         <div class="w3ls_logo_products_left">
-            <h1><a href="index.html"><span>Grocery</span> Store</a></h1>
+            <h1><a href="index.html"><span>Wasil</span> Store</a></h1>
         </div>
         <div class="w3ls_logo_products_left1">
             <ul class="special_items">
@@ -81,7 +80,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
         <div class="w3ls_logo_products_left1">
             <ul class="phone_email">
                 <li><i class="fa fa-phone" aria-hidden="true"></i>(+0123) 234 567</li>
-                <li><i class="fa fa-envelope-o" aria-hidden="true"></i><a href="mailto:store@grocery.com">store@grocery.com</a></li>
+                <li><i class="fa fa-envelope-o" aria-hidden="true"></i><a href="mailto:store@grocery.com">store@wasil.com</a></li>
             </ul>
         </div>
         <div class="clearfix"> </div>
@@ -105,45 +104,45 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
             <!-- Collect the nav links, forms, and other content for toggling -->
             <div class="collapse navbar-collapse" id="bs-megadropdown-tabs">
                 <ul class="nav navbar-nav nav_1">
-                    <li><a href="products.html">Branded Foods</a></li>
-                    <li><a href="household.html">Households</a></li>
+                    <li><a href="products.html">Category 1</a></li>
+                    <li><a href="household.html">Category 1</a></li>
                     <li class="dropdown mega-dropdown active">
-                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Veggies & Fruits<span class="caret"></span></a>
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Category 1<span class="caret"></span></a>
                         <div class="dropdown-menu mega-dropdown-menu w3ls_vegetables_menu">
                             <div class="w3ls_vegetables">
                                 <ul>
-                                    <li><a href="vegetables.html">Vegetables</a></li>
-                                    <li><a href="vegetables.html">Fruits</a></li>
+                                    <li><a href="vegetables.html">Category 1</a></li>
+                                    <li><a href="vegetables.html">Category 1</a></li>
                                 </ul>
                             </div>
                         </div>
                     </li>
-                    <li><a href="kitchen.html">Kitchen</a></li>
-                    <li><a href="short-codes.html">Short Codes</a></li>
+                    <li><a href="kitchen.html">Category 1</a></li>
+                    <li><a href="short-codes.html">Category 1</a></li>
                     <li class="dropdown">
-                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Beverages<span class="caret"></span></a>
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Category 1<span class="caret"></span></a>
                         <div class="dropdown-menu mega-dropdown-menu w3ls_vegetables_menu">
                             <div class="w3ls_vegetables">
                                 <ul>
-                                    <li><a href="drinks.html">Soft Drinks</a></li>
-                                    <li><a href="drinks.html">Juices</a></li>
+                                    <li><a href="drinks.html">Category 1</a></li>
+                                    <li><a href="drinks.html">Category 1</a></li>
                                 </ul>
                             </div>
                         </div>
                     </li>
-                    <li><a href="pet.html">Pet Food</a></li>
+                    <li><a href="pet.html">Category 1</a></li>
                     <li class="dropdown">
-                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Frozen Foods<span class="caret"></span></a>
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Category 1<span class="caret"></span></a>
                         <div class="dropdown-menu mega-dropdown-menu w3ls_vegetables_menu">
                             <div class="w3ls_vegetables">
                                 <ul>
-                                    <li><a href="frozen.html">Frozen Snacks</a></li>
-                                    <li><a href="frozen.html">Frozen Nonveg</a></li>
+                                    <li><a href="frozen.html">Category 1</a></li>
+                                    <li><a href="frozen.html">Category 1</a></li>
                                 </ul>
                             </div>
                         </div>
                     </li>
-                    <li><a href="bread.html">Bread & Bakery</a></li>
+                    <li><a href="bread.html"></a></li>
                 </ul>
             </div><!-- /.navbar-collapse -->
         </nav>
@@ -195,11 +194,11 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
         <div class="col-md-3 w3_footer_grid">
             <h3>what in stores</h3>
             <ul class="w3_footer_grid_list">
-                <li><a href="pet.html">Pet Food</a></li>
-                <li><a href="frozen.html">Frozen Snacks</a></li>
-                <li><a href="kitchen.html">Kitchen</a></li>
-                <li><a href="products.html">Branded Foods</a></li>
-                <li><a href="household.html">Households</a></li>
+                <li><a href="pet.html">Category 1</a></li>
+                <li><a href="frozen.html">Category 1</a></li>
+                <li><a href="kitchen.html">Category 1</a></li>
+                <li><a href="products.html">Category 1</a></li>
+                <li><a href="household.html">Category 1</a></li>
             </ul>
         </div>
         <div class="col-md-3 w3_footer_grid">
@@ -215,12 +214,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
         </div>
         <div class="clearfix"> </div>
         <div class="agile_footer_grids">
-            <div class="col-md-3 w3_footer_grid agile_footer_grids_w3_footer">
-                <div class="w3_footer_grid_bottom">
-                    <h4>100% secure payments</h4>
-                    <img src="images/card.png" alt=" " class="img-responsive" />
-                </div>
-            </div>
+           
             <div class="col-md-3 w3_footer_grid agile_footer_grids_w3_footer">
                 <div class="w3_footer_grid_bottom">
                     <h5>connect with us</h5>
